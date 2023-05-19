@@ -1,0 +1,28 @@
+{
+    "domain": "my_namaz_alert",
+    "name": "My Namaz Alert",
+    "documentation": "https://github.com/danyalahmed/my-namaz-alert",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "config_flow": false,
+    "translations": false,
+    "iot_class": "cloud_polling",
+    "version": "0.1",
+    "aliases": [],
+    "quality_scale": "gold",
+    "homeassistant": "2022.10.0",
+    "integration_manifest": {
+      "default_config": {},
+      "after_dependencies": [],
+      "documentation": "https://github.com/danyalahmed/my-namaz-alert",
+      "domain": "my_namaz_alert",
+      "name": "My Namaz Alert",
+      "requirements": [],
+      "dependencies": [],
+      "config_flow": false,
+      "translations": false,
+      "iot_class": "cloud_polling"
+    }
+  }
+  

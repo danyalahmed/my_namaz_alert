@@ -1,0 +1,5 @@
+{
+  "latitude": "52.9540223",
+  "longitude": "-1.1549892",
+  "api_url": "https://www.alislam.org/adhan/api/timings/day?lat={latitude}&lng={longitude}"
+}

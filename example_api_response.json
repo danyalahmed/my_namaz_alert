@@ -1,0 +1,53 @@
+{
+    "locationInfo": {
+        "lat": "52.9540223",
+        "lng": "-1.1549892",
+        "timezone": "Europe/London"
+    },
+    "multiDayTimings": [
+        {
+            "prayers": [
+                {
+                    "name": "Fajr",
+                    "time": 1684463460000,
+                    "audio": "https://alislam.org/adhan/objects/Azan_FerozAlam.mp3"
+                },
+                {
+                    "name": "Sunrise",
+                    "time": 1684468860000,
+                    "audio": null
+                },
+                {
+                    "name": "Zuhr",
+                    "time": 1684497960000,
+                    "audio": "https://alislam.org/adhan/objects/Azan_FerozAlam.mp3"
+                },
+                {
+                    "name": "Asr",
+                    "time": 1684513080000,
+                    "audio": "https://alislam.org/adhan/objects/Azan_FerozAlam.mp3"
+                },
+                {
+                    "name": "Sunset",
+                    "time": 1684526520000,
+                    "audio": null
+                },
+                {
+                    "name": "Maghrib",
+                    "time": 1684526580000,
+                    "audio": "https://alislam.org/adhan/objects/Azan_FerozAlam.mp3"
+                },
+                {
+                    "name": "Isha",
+                    "time": 1684530720000,
+                    "audio": "https://alislam.org/adhan/objects/Azan_FerozAlam.mp3"
+                }
+            ],
+            "coordinates": {
+                "latitude": 52.9540223,
+                "longitude": -1.1549892
+            },
+            "date": 1684485202543
+        }
+    ]
+}
